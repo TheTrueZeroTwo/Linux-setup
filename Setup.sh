@@ -5,3 +5,4 @@
 ./install-programs.sh
 ./setup-folders.sh
 ./setup-net-drives.sh
+./setup-configs.sh
